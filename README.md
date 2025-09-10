@@ -1,0 +1,7 @@
+# hugging-face-courses
+
+Welcome to the hugging-face-courses repository!
+
+This repo is intended for learning and sharing resources related to Hugging Face courses, tutorials, and projects.
+
+Feel free to contribute or use this repository as a starting point for your own Hugging Face experiments.
