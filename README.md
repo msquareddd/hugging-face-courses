@@ -1,4 +1,4 @@
-# Hugging Face Smol-Course
+# Hugging Face Smol Course
 
 Welcome to the hugging-face-courses repository!
 
