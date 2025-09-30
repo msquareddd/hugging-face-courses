@@ -1,6 +1,6 @@
 # Hugging Face Smol Course
 
-Welcome to the hugging-face-courses repository!
+Welcome to the hugging-face-smol-course repository!
 
 This repo is intended for learning and sharing resources related to Hugging Face courses, tutorials, and projects.
 
